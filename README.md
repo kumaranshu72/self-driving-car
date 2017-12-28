@@ -1,17 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 5.3.1.2 (Linux)"/>
-	<meta name="created" content="00:00:00"/>
-	<meta name="changed" content="2017-12-28T17:30:19.527310294"/>
-	<style type="text/css">
-		h3.cjk { font-family: "Noto Sans CJK SC Regular" }
-		h3.ctl { font-family: "FreeSans" }
-		code.cjk { font-family: "DejaVu Sans Mono", monospace }
-	</style>
-</head>
 <body lang="en-IN" dir="ltr">
 <h1>Self Driving car 
 </h1>
