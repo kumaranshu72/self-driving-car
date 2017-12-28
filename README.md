@@ -56,59 +56,13 @@ https://kivy.org
 	</p>
 	<li/>
 <p>Execute map.py.</p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p><img src="README_md_d2f9bfddc9f76199.png" name="Image1" align="left" width="454" height="367" border="0"/>
-
-		</p>
+	
 </ol>
-<p><br/>
-<br/>
-
-</p>
-<p><br/>
-<br/>
-
-</p>
-<p><br/>
-<br/>
-
-</p>
-<p><br/>
-<br/>
-
-</p>
-<p><br/>
-<br/>
-
-</p>
-<p><br/>
-<br/>
-
-</p>
-<p><br/>
-<br/>
-
-</p>
-<p><br/>
-<br/>
-
-</p>
-<p><br/>
-<br/>
-
-</p>
-<p>                                                              
-Level 1</p>
-<p><br/>
-<br/>
-
-</p>
+<p><img src="README_md_d2f9bfddc9f76199.png" name="Image1" align="left" width="454" height="367" border="0"/>
+		</p>
 <p><img src="README_md_649b632d102a0164.png" name="Image3" align="left" width="680" height="382" border="0"/>
 <br/>
 <br/>
-
 </p>
 <p>                                                                  
            level 2</p>
@@ -122,6 +76,6 @@ Level 1</p>
 
 </p>
 <p>                                                               
-(level 3)</p>
+level 3</p>
 </body>
 </html>
