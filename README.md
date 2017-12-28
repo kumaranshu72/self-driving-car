@@ -64,8 +64,6 @@ https://kivy.org
 <br/>
 <br/>
 </p>
-<p>                                                                  
-           level 2</p>
 <p><img src="README_md_1cfac943102d9f58.png" name="Image2" align="left" width="680" height="382" border="0"/>
 <br/>
 <br/>
@@ -75,7 +73,6 @@ https://kivy.org
 <br/>
 
 </p>
-<p>                                                               
-level 3</p>
+
 </body>
 </html>
